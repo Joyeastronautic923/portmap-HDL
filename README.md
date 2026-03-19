@@ -48,3 +48,22 @@ nim c -d:release -o:portmap portmap.nim
 ## Notes
 - Testbench files may show no ports (expected behavior)
 - Designed for standard Verilog module definitions
+
+## ⬇️ Download This Repository
+
+### 🪟 Windows
+Download → [download_repos.bat](./download_repos.bat)
+``` 
+Double-click it and pick the repo(s) you want.
+```
+
+### 🐧 Linux / macOS
+Download → [download_repos.sh](./download_repos.sh)
+```
+bash
+
+chmod +x download_repos.sh
+./download_repos.sh
+```
+
+> Always downloads the latest version.
