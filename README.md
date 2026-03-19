@@ -6,6 +6,18 @@ A lightweight CLI tool to extract and display port definitions from Verilog file
 
 Point it at any Verilog file and it instantly prints a clean, aligned table of all ports - name, direction, and bus width. Useful for quickly inspecting unfamiliar modules or documenting your own.
 
+<p align="center">
+  <img src="images/port-extraction-default.png"  width="500"/>
+  <br>
+  <sub>Port-Extraction (Default)</sub>
+</p>
+
+<p align="center">
+  <img src="images/port-extraction-markdown.png"  width="500"/>
+  <br>
+  <sub>Port-Extraction (Markdown )</sub>
+</p>
+
 ## Features
 - Extracts `input`, `output`, and `inout` ports
 - Detects bus widths (e.g. `[7:0]`)
