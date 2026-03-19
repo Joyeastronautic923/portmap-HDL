@@ -63,7 +63,7 @@ nim c -d:release -o:portmap portmap.nim
 
 ## Tests
 
-Download [Tests folder](tests) -> Provide 4 test files
+Download test files from [Tests folder](tests): Provide 4 test files
 ```
 portmap tests/det.v       # Default version
 portmap tests/det.v --md  # Markdown Version
