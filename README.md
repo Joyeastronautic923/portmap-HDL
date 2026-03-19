@@ -42,7 +42,7 @@ move portmap-windows-x64.exe "$env:USERPROFILE\AppData\Local\Microsoft\WindowsAp
 
 Requires [Nim](https://nim-lang.org/install.html).
 ```bash
-nim c -d:release portmap.nim
+nim c -d:release -o:portmap portmap.nim
 ```
 
 ## Notes
