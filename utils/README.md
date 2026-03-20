@@ -1,6 +1,6 @@
 # Utils
 
-`Filetree`
+## Filetree
 A repository file tree generator written in Lua. Prints a visual directory tree with file-type icons and a breakdown of key file counts at the bottom.
 
 ```
@@ -21,14 +21,14 @@ A repository file tree generator written in Lua. Prints a visual directory tree 
 (.v: 9  .circ: 13  .md: 12  .bat: 1  .sh: 1)
 ```
 
-## Requirements
+### Requirements
 
 | Platform | Requirement |
 |----------|-------------|
 | Linux / WSL | `sudo apt install lua5.4` |
 | Windows | `scoop install lua` |
 
-## Usage
+### Usage
 
 ```bash
 # Current directory
@@ -49,7 +49,7 @@ lua filetree.lua --help
 
 On Linux/WSL you may need `lua5.4` instead of `lua` depending on your install.
 
-## Windows (PowerShell)
+### Windows (PowerShell)
 
 Enable UTF-8 once so emojis and tree characters render correctly:
 
@@ -70,7 +70,7 @@ Then run normally:
 lua filetree.lua .
 ```
 
-## Icons
+### Icons
 
 | Icon | Extensions |
 |------|-----------|
@@ -86,11 +86,11 @@ lua filetree.lua .
 | 🌙 | `.lua` |
 | 👑 | `.nim` |
 
-## Footer breakdown
+### Footer breakdown
 
 Tracks counts for: `.v` `.circ` `.md` `.py` `.c` `.bat` `.sh` `.ps1` - only shows extensions with at least one file.
 
-`portmap` 
+## portmap
 A lightweight CLI tool to extract port definitions from Verilog files.
 
 ### Features
