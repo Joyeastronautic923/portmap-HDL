@@ -93,3 +93,7 @@ chmod +x download_repos.sh
 ```
 
 > Always downloads the latest version.
+
+## 📜License
+- Source code and HDL files are licensed under the MIT License.
+- Documentation, diagrams, images, and PDFs are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
