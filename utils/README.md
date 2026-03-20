@@ -1,6 +1,6 @@
-# Utils
+# 🧰 Utils
 
-## Filetree
+## 🌳 Filetree
 A repository file tree generator written in Lua. Prints a visual directory tree with file-type icons and a breakdown of key file counts at the bottom.
 
 ```
@@ -90,7 +90,7 @@ lua filetree.lua .
 
 Tracks counts for: `.v` `.circ` `.md` `.py` `.c` `.bat` `.sh` `.ps1` - only shows extensions with at least one file.
 
-## portmap
+## 🔌portmap
 A lightweight CLI tool to extract port definitions from Verilog files.
 
 ### Features
