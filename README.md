@@ -75,10 +75,6 @@ portmap tests/det.v --md  # Markdown Version
 Compare with images in readme for det.v.
 ```
 
-## 🧰 Utils
-- [filetree.lua](https://github.com/KARAN-D05/portmap-HDL/tree/main/utils) - A repository file tree generator that prints a visual directory tree with file-type icons and a file count breakdown by extension (`.v`, `.circ`, `.md`, `.py` and more).
-- Works on Linux and Windows. Included automatically when downloading repos via [download_repos.bat](download_repos.bat) / [download_repos.sh](download_repos.sh).
-
 ## ⬇️ Download This Repository
 
 ### 🪟 Windows
@@ -97,6 +93,11 @@ chmod +x download_repos.sh
 ```
 
 > Always downloads the latest version.
+
+## 🧰 Repo Filetree Generator
+[Filetree](https://github.com/KARAN-D05/portmap-HDL/tree/main/utils) - A repository file tree generator that prints a visual directory tree with file-type icons and a file count breakdown by extension (`.v`, `.circ`, `.md`, `.py` and more).
+  
+Utils (Portmap + Filtree) - Fetched automatically as a utils/ package alongside any repo download - includes portmap binaries, filetree, and source code via [download_repos.bat](download_repos.bat) / [download_repos.sh](download_repos.sh).
 
 ## 📜License
 - Source code and HDL files are licensed under the MIT License.
