@@ -2,7 +2,7 @@
 
 A lightweight CLI tool to extract and display port definitions from Verilog files.
 
-## ⚙️ What it does
+## 🔍 What it does
 
 Point it at any Verilog file and it instantly prints a clean, aligned table of all ports - name, direction, and bus width. Useful for quickly inspecting unfamiliar modules or documenting your own.
 
