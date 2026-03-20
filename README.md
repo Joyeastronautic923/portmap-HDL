@@ -19,7 +19,8 @@ Point it at any Verilog file and it instantly prints a clean, aligned table of a
 </p>
 
 ## ⚙️ Implementation Stack
-![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logoColor=white)
 
 ## ✨ Features
 - Extracts `input`, `output`, and `inout` ports
