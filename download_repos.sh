@@ -1,3 +1,5 @@
+# Linux/macOS Repository Downloader
+
 #!/usr/bin/env bash
 
 BASE_URL="https://github.com/KARAN-D05"
